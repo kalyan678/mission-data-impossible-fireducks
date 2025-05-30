@@ -15,10 +15,16 @@ When Pandas couldn't keep up with 10 million rows of stock market data, Ethan Hu
 
 - `Mission_Data_Impossible_FireDucks.ipynb` – Jupyter Notebook demonstrating:
   - Reading and analyzing large CSV data
-  - Side-by-side comparison of **Pandas** vs **FireDucks**
+  - Analyze large-scale stock market data
+-   Compare **Pandas** vs **FireDucks** for:
+  - Data loading and memory usage
+  - Query and filtering speed
+  - Real-world use cases
+- Benchmark results and runtime comparisons
+- Visualizations using `matplotlib` and `seaborn`Side-by-side comparison of **Pandas** vs **FireDucks**
   - Performance benchmarks
   - Visualizations of stock market trends
-- `requirements.txt` – All dependencies to get started quickly
+
 
 ## Tools Used
 
