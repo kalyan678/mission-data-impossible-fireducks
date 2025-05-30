@@ -19,9 +19,10 @@ When Pandas couldn't keep up with 10 million rows of stock market data, Ethan Hu
 -   Compare **Pandas** vs **FireDucks** for:
   - Data loading and memory usage
   - Query and filtering speed
+    
   - Real-world use cases
 - Benchmark results and runtime comparisons
-- Visualizations using `matplotlib` and `seaborn`Side-by-side comparison of **Pandas** vs **FireDucks**
+- Visualizations  comparison of **Pandas** vs **FireDucks**
   - Performance benchmarks
   - Visualizations of stock market trends
 
@@ -34,9 +35,7 @@ When Pandas couldn't keep up with 10 million rows of stock market data, Ethan Hu
 - NumPy
 - Matplotlib / Seaborn (for plots)
 
-## Getting Started
 
-### 1. Clone this repo
+### 1. Clone this repo to play with it
 ```bash
-git clone https://github.com/yourusername/mission-data-impossible-fireducks.git
-cd mission-data-impossible-fireducks
+git clone [https://github.com/yourusername/mission-data-impossible-fireducks.git]https://github.com/kalyan678/mission-data-impossible-fireducks.git
